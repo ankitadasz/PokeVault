@@ -1,4 +1,6 @@
 # Pokémon Explorer
+<img width="1902" height="896" alt="image" src="https://github.com/user-attachments/assets/f79c4e53-4769-4fe2-a9c9-7669ee469056" />
+
 
 A responsive Pokémon web application built using React and PokéAPI. Explore Pokémon, search by name, and view detailed information including stats, abilities, and types.
 
